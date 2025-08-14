@@ -47,21 +47,6 @@ It uses **trees** and **linked lists** to track all possible moves while avoidin
 
 ---
 
-## 🖥 Example Output
-
-Enter the starting position (e.g., A1): B2
-Knight's path that covers all squares on the board:
-    1   2   3   4   5
-A |15 |14 |13 |12 |11 |
-B |16 | 1 |10 | 9 | 8 |
-C |17 | 2 | 3 | 4 | 7 |
-D |18 |19 |20 | 5 | 6 |
-E |25 |24 |23 |22 |21 |
-
-
-
----
-
 ## 🔧 Technical Details
 
 - **Board Size:** 5×5 (can be extended to 8×8 or more).
