@@ -62,23 +62,6 @@ It uses **trees** and **linked lists** to track all possible moves while avoidin
 - Standard C libraries:  
   `stdlib.h`, `stdbool.h`, `stdio.h`, `string.h`
 
----
 
-## 🚀 Future Improvements
 
-- Expand to standard 8×8 chessboard.
-- Add alternative pathfinding algorithms (e.g., Warnsdorff’s rule).
-- Visualize the tour in a GUI.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repo, create a branch, and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
